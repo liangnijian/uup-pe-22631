@@ -1,0 +1,5 @@
+Windows\System32\zh-CN\wersvc.dll.mui
+Windows\System32\riched32.dll
+Windows\System32\weretw.dll
+Windows\System32\wersvc.dll
+Windows\System32\windowsperformancerecordercontrol.dll
