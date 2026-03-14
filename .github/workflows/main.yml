@@ -1,4 +1,4 @@
-name: 制作 22631 pe
+name: 制作 WinPE
 
 on:
   workflow_dispatch:
