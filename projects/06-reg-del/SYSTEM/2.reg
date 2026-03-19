@@ -47,3 +47,9 @@ Windows Registry Editor Version 5.00
 "wvmic_timesync.inf"=-
 "wvmic_vss.inf"=-
 "xboxgip.inf"=-
+
+[-HKEY_LOCAL_MACHINE\Tmp_SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\RestrictedServices\Static\System]
+"Audiosrv-1"=-
+"Audiosrv-2"=-
+"AVEndpointBuilder-1"=-
+"AVEndpointBuilder-2"=-
